@@ -1,0 +1,23 @@
+.logo img{
+    width: 200px;
+    height: 60px;
+}
+ul li{
+    list-style: none;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+   
+
+}
+.right ul{
+    display: flex;
+    gap: 34px;
+    
+}
+li{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
